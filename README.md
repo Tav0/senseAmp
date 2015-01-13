@@ -7,7 +7,7 @@ SENSEAMP
 Objective
 ---------
 
-Senseamp is an Android app that enables the  visually and hearing impaired to perceive and interact with their environment through the sense of touch.
+Senseamp is an Android app that enables the deaf-blind individual to perceive and interact with their environment through the sense of touch.
 
 
 
